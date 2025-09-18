@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /private/
+Disallow: /admin/
+
+
+# Sitemap location
+Sitemap: https://bioinfoquant.com/sitemap.xml
